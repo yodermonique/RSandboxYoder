@@ -1,2 +1,2 @@
 # RSandboxYoder
-Test trial repository I'm suing for R training
+Test trial repository I'm using for R training
